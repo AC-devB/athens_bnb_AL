@@ -1,15 +1,5 @@
 # Athens Airbnb Market Analysis
-A data analysis on the Athens Airbnb market.
-
-## Project Overview
-
-This project explores the Athens Airbnb market by analyzing listings and availability data to uncover trends in pricing, demand, and customer behavior. The analysis was conducted using SQL and PostgreSQL for database management, cleaning, and querying, as well as Power BI to visualize key findings.
-
-
-This project explores the Athens Airbnb market using SQL and Power BI to analyze listing and availability data and create an interactive dashboard to visualize key findings. The goal was to demonstrate skills in database management and extract insights for hosts, investors, and policymakers. The final step involved creating an interactive dashboard in Power BI to visualize key findings.
-
-
-This project analyzes the Athens Airbnb market using SQL for data management and Power BI for visualization. It explores listings and availability data to uncover pricing, demand, and customer trends, presented through an interactive dashboard for hosts, investors, and policymakers.
+This project explores the Athens Airbnb market by analyzing data to uncover trends in pricing, demand and customer behavior. The analysis was conducted using SQL and PostgreSQL for database management, cleaning and querying, as well as Power BI to visualize key findings. The goal was to demonstrate skills in database management and extract important insights.
 
 ## Tools & Technologies
 **PostgreSQL**: Database setup, data cleaning and SQL queries.
