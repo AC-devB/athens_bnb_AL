@@ -66,7 +66,7 @@ LIMIT 20;
 
 
 ## [Power BI Visualization]
-An interactive dashboard was created in Power BI to present the key findings in a visually compelling way. The dashboard includes:
+An interactive dashboard was created in Power BI to present the key findings in a visually compelling way and Power Query was used to convert tables into a format in order to help with the discovery of these findings. The dashboard includes:
 
 * **Cards**: Key metrics are presented like average price and total listings.
 * **Geographic Map**: An interactive map of Athens listings, showing host density and pricing by neighborhood.
