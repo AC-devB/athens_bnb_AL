@@ -74,7 +74,7 @@ An interactive dashboard was created in Power BI to present the key findings in 
 * **Pie Chart**: Distribution of Airbnb types was displayed such as entire homes versus private rooms.
 
 ## [Insights]
-The goal of this project was to demonstrate skills in database management and extract important insights. Below are some of these insights:
+The goal of this project was to demonstrate skills in database management and to extract important insights. Below are some of these insights:
 
 * **Airbnb listings are concentrated in central neighborhoods**: Central Athens has the highest prices and most hosts.
 * **Entire homes are the most profitable**: They cost more and have higher occupancy than private rooms.
