@@ -8,6 +8,18 @@ This project explores the Athens Airbnb market by analyzing data to uncover tren
 
 **Power BI**: Data visualization and dashboard creation.
 
+## Visual Graph examples
+
+### ***Main graph***
+<img width="1459" height="819" alt="athens_BI_main" src="https://github.com/user-attachments/assets/c0903774-fb60-422b-9c94-177027592b03" />
+
+### ***Graph sorted by Private rooms available***
+<img width="1457" height="819" alt="athens_BI_room" src="https://github.com/user-attachments/assets/3f9c6d8e-5514-4a71-84e6-c064ae5b7784" />
+
+### ***Map of available Airbnb listings in Athens***
+<img width="1479" height="841" alt="athens_BI_map2" src="https://github.com/user-attachments/assets/c145b4ef-f426-416f-bae2-7373a0eb4849" />
+
+
 ## [Database Design & SQL Analysis]
 Data was sourced from the Inside Airbnb project. A PostgreSQL database was set and raw CSV files were imported. Using SQL, data cleaning was performed to ensure data integrity and usability.
 
