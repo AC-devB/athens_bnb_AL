@@ -65,7 +65,7 @@ LIMIT 20;
 ## [Power BI Visualization]
 An interactive dashboard was created in Power BI to present the key findings in a visually compelling way and Power Query was used to convert tables into a format in order to help with the discovery of these findings. The dashboard includes:
 
-* **Cards**: Key metrics are presented like average price and total listings.
+* **Cards**: Key metrics are presented including average price of available Airbnbs and total listings.
 * **Geographic Map**: An interactive map of Athens listings, showing host density and pricing by neighborhood.
 * **Bar Chart**: Neighborhoods were ranked by number of listings to show the most popular areas.
 * **Pie Chart**: Distribution of Airbnb types was displayed such as entire homes versus private rooms.
@@ -74,6 +74,6 @@ An interactive dashboard was created in Power BI to present the key findings in 
 The goal of this project was to demonstrate skills in database management and to extract important insights. Below are some of these insights:
 
 * **Airbnb listings are concentrated in central neighborhoods**: Central Athens has the highest prices and most hosts.
-* **Entire homes are the most profitable**: They cost more and have higher occupancy than private rooms.
+* **Entire homes are the most profitable**: Apartments cost more and have higher occupancy than private rooms.
 * **Reviews increase price**s: Listings with more reviews tend to have higher average prices.
 * **The market is seasonal**: Demand and prices peak during the summer months.
