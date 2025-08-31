@@ -36,15 +36,12 @@ CREATE TABLE listings (
     name TEXT,
     host_id BIGINT,
     host_name TEXT,
-    neighbourhood TEXT,
     latitude DECIMAL,
     longitude DECIMAL,
     room_type TEXT,
     price TEXT,
     minimum_nights INT,
-    number_of_reviews INT,
     last_review DATE,
-    reviews_per_month NUMERIC,
     calculated_host_listings_count INT,
     availability_365 INT
 );
